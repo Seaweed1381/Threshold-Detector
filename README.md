@@ -8,3 +8,6 @@ The arguments that this program takes are -f followed by the names of however ma
 -f [file names]
 -o [output names]
 -t threshold
+
+
+This version gets rid of the for loops that had slowed down the previous version and incorporates a better command line interface using argparse.  
